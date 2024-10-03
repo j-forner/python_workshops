@@ -1,0 +1,1 @@
+This repository contains notebooks that teach the basics of python, from data types and loops up to functions and utilizing common libraries. Since this will be shared at INFORMS meetings, there is also a focus on optimization software and how to solve optimization problems in python.
